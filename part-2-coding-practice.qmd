@@ -1,0 +1,22 @@
+---
+title: "Part 2 Coding Practice"
+author: "Melannie Moreno Rolon"
+format: html
+editor: visual
+---
+
+# Part 2: Coding Practice
+
+```{r}
+#creating and storing vectors
+vector_a <- c(1,6)
+vector_b <- c(2,4)
+```
+
+```{r}
+#verifying by-hand solutions from Part 1
+vector_a + vector_b
+vector_b - vector_a
+2 * vector_a
+vector_a %*% vector_b
+```
